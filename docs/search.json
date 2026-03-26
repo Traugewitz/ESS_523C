@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "lab-00.html",
+    "href": "lab-00.html",
+    "title": "Lab 00: Verify Your Environment + Meet Your Tools",
+    "section": "",
+    "text": "Sys.getenv(\"LOGNAME\")\n\n[1] \"\"\n\nR.version.string\n\n[1] \"R version 4.5.1 (2025-06-13 ucrt)\"\n\npackageVersion(\"rstudioapi\")\n\n[1] '0.17.1'\n\nprint(c(\"tidymodels\", \"remotes\", \"sf\", \"terra\") %in% rownames(installed.packages()))\n\n[1] TRUE TRUE TRUE TRUE"
+  },
+  {
+    "objectID": "lab-00.html#step-3-output",
+    "href": "lab-00.html#step-3-output",
+    "title": "Lab 00: Verify Your Environment + Meet Your Tools",
+    "section": "",
+    "text": "Sys.getenv(\"LOGNAME\")\n\n[1] \"\"\n\nR.version.string\n\n[1] \"R version 4.5.1 (2025-06-13 ucrt)\"\n\npackageVersion(\"rstudioapi\")\n\n[1] '0.17.1'\n\nprint(c(\"tidymodels\", \"remotes\", \"sf\", \"terra\") %in% rownames(installed.packages()))\n\n[1] TRUE TRUE TRUE TRUE"
+  },
+  {
+    "objectID": "lab-00.html#step-5-output",
+    "href": "lab-00.html#step-5-output",
+    "title": "Lab 00: Verify Your Environment + Meet Your Tools",
+    "section": "Step 5 Output",
+    "text": "Step 5 Output\ntraug@TLR_Suface_8 MINGW64 ~/github/ESS_523C (main)\n$ git config --list --global\nuser.name=Tania Raugewitz\nuser.email=traugewitz@gmail.com\ncredential.https://git.bootcampcontent.com.provider=generic\nhttp.postbuffer=524288000\nfilter.lfs.clean=git-lfs clean -- %f\nfilter.lfs.smudge=git-lfs smudge -- %f\nfilter.lfs.process=git-lfs filter-process\nfilter.lfs.required=true"
+  },
+  {
+    "objectID": "lab-00.html#github-profile",
+    "href": "lab-00.html#github-profile",
+    "title": "Lab 00: Verify Your Environment + Meet Your Tools",
+    "section": "GitHub Profile",
+    "text": "GitHub Profile\nhttps://github.com/Traugewitz"
+  }
+]
